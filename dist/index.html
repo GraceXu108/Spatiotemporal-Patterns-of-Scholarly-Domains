@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <!-- META -->
+  <meta charset='utf-8' />
+  <meta name='viewport' content='initial-scale=1, maximum-scale=1, user-scalable=no' />
+  <meta name="format-detection" content="telephone=no">
+
+  <!-- TITLE -->
+  <link rel="icon" type="image/x-icon" href="./icon.png" />
+  <title>Spatiotemporal Patterns of Scholarly Domains</title>
+
+  <!-- STYLE SHEETS -->
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ubuntu">
+  <link rel="stylesheet" type="text/css" href="libs/multiple-select-master/dist/multiple-select.css">
+
+
+  <script src="libs/jquery-3.6.0.min.js"></script>
+  <script src="libs/multiple-select-master/dist/multiple-select.js"></script>
+
+</head>
+
+<body>
+
+  <div class='header-title'>
+    <span>Spatiotemporal Patterns of<br>Scholarly Domains</span>
+  </div>
+
+  <!-- SIDE PANEL BUTTONS -->
+  <div class="button-container">
+    <div class="side-panel-button">
+      <img id="side-panel-img" src="assets/img/left.png">
+    </div>
+  </div>
+
+  <!-- SIDE PANEL -->
+  <div class="side-panel-container">
+    <div class="panel-content">
+      <div class="map-selector-container">
+        <div class="selectTitle">Data Filter<br><span>Provinces :</span><br><span>Years :</span></div>
+        <select id="selectProvinceMap" class="selectProvince" multiple></select>
+        <select id="selectYearMap" class="selectYearMap" multiple>
+          <option value="2017">2017</option>
+          <option value="2018">2018</option>
+          <option value="2019">2019</option>
+          <option value="2020">2020</option>
+        </select>
+      </div>
+      <div class="model-container">
+        <div class="selector-container">
+          <div class="selectTitle" style="margin-top: 10px;">Domains of a Province in 4 Years<br><span>Province
+              :</span></div>
+          <select id="selectProvince" class="selectProvince">
+
+          </select>
+        </div>
+        <div id="model"></div>
+      </div>
+      <div class="graph-container">
+        <div class="graph-left">
+          <div class="selector-container" style="top:-5px;">
+            <div class="selectTitle">Domains of a Province in a Year<br><span id="sun-prov">Province
+                :</span><br><span>Year :</span>
+            </div>
+            <select id="selectYear" class="selectYear" multiple>
+              <option value="2017">2017</option>
+              <option value="2018">2018</option>
+              <option value="2019">2019</option>
+              <option value="2020">2020</option>
+            </select>
+          </div>
+          <div class="sequence-explain" style="top: 25px;">1st Level Domain:</div>
+          <div class="sequence-explain" style="top: 50px; left: 40px;"> 2nd Level Domain:</div>
+          <div id="sequence"></div>
+          <div id="chart">
+            <div id="explanation" style="visibility: hidden;">
+              <!-- <span id="province"></span><br /> -->
+              <span id="percentage"></span><br />
+            </div>
+          </div>
+        </div>
+        <div class="graph-right">
+          <div class="selector-container" style="top:-5px;left: -10px;">
+            <div class="selectTitle">Single Domain of a Province<br><span id="bar-prov">Province
+                :</span><br><span>Domain :</span></div>
+          </div>
+          <div id="bar-chart" style="width: 200px;height:300px;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- MAP -->
+  <div id="map"></div>
+
+  <!-- POPUP -->
+  <div class="popup">
+    <p><span></span></p>
+    <p>Year: <span></span></p>
+    <p>Domain: <span></span></p>
+    <p>Occur. Freq.: <span></span></p>
+    <p>Percent: <span></span></p>
+  </div>
+  <div class="pop-up">
+    <p><span></span></p>
+    <p>Year: <span></span></p>
+    <p>Domain: <span></span></p>
+    <p>Occur. Freq.: <span></span></p>
+    <p>Percent: <span></span></p>
+  </div>
+
+  <!-- INFO BUTTONS -->
+  <div class="info-container">
+    <div class="info-map">
+      <img src="assets/img/information.png">
+    </div>
+    <div class="info-legend">
+      <img id="legend-img" src="assets/img/up.png">
+    </div>
+  </div>
+
+
+  <!-- INFO PANEL -->
+  <div class="info-panel">
+    <div class="content">
+      <p>The demo uses a self-designed <strong><abbr title="Space-time Cube">STC</abbr> symbols</strong> to display
+        spatial and temporal features
+        about <a href="https://dl.acm.org/"><cite>ACM</cite></a> scholarly publications in China (2017-2020).
+      </p>
+      <p>Publication data is aggregated based on which year it was published and which province the institute is located
+        in. </p>
+      <p>The demo involves: <strong>total amount of 4-year publications, publication location, published time, scholarly
+          domain categories in two hierarchical levels, and occurrence frequency for each domain.</strong></p>
+      <p>Our STC symbol is a stack of wreath-liked 3D rings, each layer stands for data in one year. Enlighted by 2D
+        sunburst graph, 3D rings also have two levels, the inner ring for the 1st level domain and the outer ring for
+        the 2nd level domain.</p>
+      <p>Please use your mouse to interact, the instructions are as shown.</p>
+      <p>More details are followed.</p>
+      <img src="assets/img/mouse.png">
+      <p id="got">GOT IT</p>
+    </div>
+  </div>
+
+
+
+  <!-- INSTRUCTION TIPS -->
+  <div class="tip" id="tip1" style="display: none;">Select STCs of which provinces and in which years to display on the
+    base map.<br><br>
+    Supports multiple selections and fuzzy inquiry. <br><br>
+    NOTE: The site may take a few seconds to respond to your request due to the heavy rendering load.
+    <p class="got-it">GOT IT</p>
+  </div>
+
+  <div class="tip" id="tip2" style="display: none;">First, select which province' STC to display in
+    3D viewer. <br><br>
+    Hover to view info.
+    <div class="diagram-group">
+      <div class="img-group">
+        <img src="assets/img/ring-3d.png">
+        <img src="assets/img/ring-3d.png">
+        <img src="assets/img/ring-3d.png">
+        <img src="assets/img/ring-3d.png">
+        <p>2020</p>
+        <p style="top: 36px">2019</p>
+        <p style="top: 78px">2018</p>
+        <p style="top: 119px">2017</p>
+      </div>
+      <img id="top-view-arrow" src="assets/img/top-view-arrow.png">
+      <img id="img1" src="assets/img/img1.png">
+    </div>
+    <div style="margin-left: 230px;"><em> &Theta; </em>: Total occurrence frequency.</div>
+    <div style="margin-left: 230px;"><em> D </em>: Parent domain's occurrence frequency.
+      Ranging from 1x. <em>d </em> to 2x. <em>d </em>.</div>
+    <p class="got-it">GOT IT</p>
+  </div>
+
+  <div class="tip" id="tip3" style="display: none;">Province is chosen. Then, select which year to
+    display in sunburst graph. It is a 2D bird eye view of STC. <br><br> Hover to view info.
+    <p class="got-it">GOT IT</p>
+  </div>
+
+  <div class="tip" id="tip4" style="display: none;">Province is chosen. This bar chart shows occurrence frequencies of
+    each domain. It is a projected front view of STC. <br><br> Changes
+    according to the selected domain.
+    <p class="got-it">GOT IT</p>
+  </div>
+
+  <!-- LEGEND -->
+  <div class="legend">
+    <div style="margin:10px;font-size: 15px;">Legend</div>
+    <div style="margin:5px 10px;">Scholarly Domains:</div>
+    <div id="ring-color"></div>
+    <div style="margin:5px 10px;">Base Map:<br>Total number of publications</div>
+    <div class="block-color" style="background: #ff7f00;"></div>
+    <div class="color-text">1135 - 5426</div>
+    <div class="block-color" style="background: #CBA800;"></div>
+    <div class="color-text">395 - 1135</div>
+    <div class="block-color" style="background: #96C030;"></div>
+    <div class="color-text">237 - 395</div>
+    <div class="block-color" style="background: #67D075;"></div>
+    <div class="color-text">49 - 237</div>
+    <div class="block-color" style="background: #4ed8b1;"></div>
+    <div class="color-text">0 - 49</div>
+  </div>
+  
+  <!-- JS RESOURCE -->
+  <script src="bundle.js"></script>
+
+
+</body>
+
+</html>

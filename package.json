@@ -1,0 +1,32 @@
+{
+  "name": "STC",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --open",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "babel-loader": "^8.2.3",
+    "css-loader": "^6.5.1",
+    "csv-loader": "^3.0.3",
+    "lodash": "^4.17.21",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.6.0",
+    "xml-loader": "^1.2.1"
+  },
+  "dependencies": {
+    "echarts": "^5.2.2",
+    "mapbox-gl": "^2.6.1",
+    "tail.select": "^0.5.15"
+  }
+}

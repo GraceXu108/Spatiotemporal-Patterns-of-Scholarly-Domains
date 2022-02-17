@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <!-- META -->
+  <meta charset='utf-8' />
+  <meta name='viewport' content='initial-scale=1, maximum-scale=1, user-scalable=no' />
+  <meta name="format-detection" content="telephone=no">
+
+  <!-- TITLE -->
+  <link rel="icon" type="image/x-icon" href="./icon.png"/>  
+  <title>Scholarly Data in 3D</title>
+  
+  <!-- STYLE SHEETS -->
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ubuntu">
+  <link rel="stylesheet" type="text/css" href="libs/multiple-select-master/dist/multiple-select.css">
+
+
+  <script src="libs/jquery-3.6.0.min.js"></script>
+  <script src="libs/multiple-select-master/dist/multiple-select.js"></script>
+
+</head>
+
+<body>
+
+
+  <!-- SIDE PANEL -->
+  <div class="side-panel-container">
+    <div class='header-title'>
+      <span>Scholarly Data in 3D</span>
+    </div>
+    <div class="map-selector-container">
+      <div class="selectTitle">Province:</div>
+      <select id="selectProvinceMap" class="selectProvince" multiple>
+
+      </select>
+    </div>
+    <div class="model-container">
+      <div class="selector-container">
+        <div class="selectTitle" style="margin-top: 10px;">Province:</div>
+        <select id="selectProvince" class="selectProvince" multiple>
+
+        </select>
+      </div>
+      <div id="model"></div>
+    </div>
+    <div class="graph-container">
+      <div class="graph-left">
+        <div class="selector-container">
+          <div class="selectTitle">Year:</div>
+          <select id="selectYear" class="selectYear" multiple>
+            <option value="2017">2017</option>
+            <option value="2018">2018</option>
+            <option value="2019">2019</option>
+            <option value="2020">2020</option>
+          </select>
+        </div>
+        <div class="sequence-explain" style="top: 20px;">1st Level Domain:</div>
+        <div class="sequence-explain" style="top: 50px; left: 40px;"> 2nd Level Domain:</div>
+        <div id="sequence"></div>
+        <div id="chart">
+          <div id="explanation" style="visibility: hidden;">
+            <span id="province"></span><br />
+            <span id="percentage"></span><br />
+          </div>
+        </div>
+      </div>
+      <div class="graph-right">
+        <div id="bar-chart"></div>
+      </div>
+    </div>
+
+  </div>
+
+
+  <!-- MAP -->
+  <div id="map"></div>
+
+  <!-- POPUP -->
+  <div class="popup">
+    <p><span></span></p>
+    <p>Year: <span></span></p>
+    <p>Domain: <span></span></p>
+    <p>Occur. Freq.: <span></span></p>
+    <p>Percent: <span></span></p>
+  </div>
+  <div class="pop-up">
+    <p><span></span></p>
+    <p>Year: <span></span></p>
+    <p>Domain: <span></span></p>
+    <p>Occur. Freq.: <span></span></p>
+    <p>Percent: <span></span></p>
+  </div>
+
+  <!-- INFO BUTTONS -->
+  <div class="info-container">
+    <div class="info-map">
+      <img src="assets/img/information.png">
+    </div>
+    <div class="info-legend">
+      <img id="legend-img" src="assets/img/up.png">
+    </div>
+  </div>
+
+
+  <!-- INFO PANEL -->
+  <div class="info-panel">
+    <div class="context">
+
+
+      <p>The demo uses <strong>wreath-liked <abbr title="Space-time Cube">STC</abbr> symbols</strong> to display
+        features
+        about <a href="https://dl.acm.org/"><cite>ACM</cite></a> scholarly publication in China (2017-2020).
+      </p>
+      <div class="diagram-group" style="margin-left: 200px;">
+        <div class="img-group" style="left:180px;">
+          <img src="assets/img/ring-3d.png">
+          <img src="assets/img/ring-3d.png">
+          <img src="assets/img/ring-3d.png">
+          <img src="assets/img/ring-3d.png">
+          <p>2020</p>
+          <p style="top: 33px">2019</p>
+          <p style="top: 77px">2018</p>
+          <p style="top: 125px">2017</p>
+        </div>
+        <img id="top-view-arrow" src="assets/img/top-view-arrow.png">
+        <img id="img1" src="assets/img/img1.png">
+      </div>
+      <table>
+        <tbody>
+          <tr>
+            <th colspan="2">Data fetures</th>
+            <th>Where to find</th>
+            <th>Visual variant</th>
+            <th>Remarks</th>
+          </tr>
+          <tr>
+            <td colspan="2">Total publication amount</td>
+            <td>Choropleth map</td>
+            <td>Gradient color hue</td>
+            <td>Absolute amount number is normalized by log 10</td>
+          </tr>
+          <tr>
+            <td colspan="2">Publication address</td>
+            <td>Administrative map</td>
+            <td>3D symbol location</td>
+            <td>Aggregated to each province</td>
+          </tr>
+          <tr>
+            <td colspan="2" rowspan="2">Published time</td>
+            <td>3D symbol</td>
+            <td>Stack height</td>
+            <td rowspan="2">2017 at the bottom, <br>2020 at the top</td>
+          </tr>
+          <tr>
+            <td>2D bar chart</td>
+            <td>Distinct bars</td>
+          </tr>
+          <tr>
+            <td colspan="2">Publication domain categories</td>
+            <td rowspan="5">Each stack of 3D symbol <br>&<br> 2D sunburst diagram</td>
+            <td>Distinct color hue</td>
+            <td>Varied by their first level domain</td>
+          </tr>
+          <tr>
+            <td colspan="2">Publication domain hierarchies</td>
+            <td>Ring's position</td>
+            <td>Inner ring for the 1st level, outer ring for the 2nd level</td>
+          </tr>
+          <tr>
+            <td rowspan="4" style="width: 10%;">Domain occurrence frequencies</td>
+            <td>1st level</td>
+            <td rowspan="2">Arc central angle (<em> &Theta; </em>)</td>
+            <td rowspan="2">Proportionate to the total occur. freq.</td>
+          </tr>
+          <tr>
+            <td rowspan="2">2nd level</td>
+          </tr>
+          <tr>
+            <td>Outer radius (<em>r<sub>out</sub> </em>)</td>
+            <td><em>d<sub>out</sub> </em> is proportionate to the parent domain's occur. freq. <br>Ranging from 1x.
+              <em>d
+              </em> to 2x. <em>d </em>
+            </td>
+          </tr>
+          <tr>
+            <td>Both</td>
+            <td>2D bar chart</td>
+            <td>Bar length</td>
+            <td>Occur. freq. number in bar label</td>
+          </tr>
+        </tbody>
+      </table>
+      <p id="got">GOT IT</p>
+    </div>
+  </div>
+
+
+
+  <!-- INSTRUCTION TIPS -->
+  <div class="tip" id="tip1" style="display: none;">Select which provinces' STCs to display on the base map.
+    <p>GOT IT</p>
+  </div>
+
+  <div class="tip" id="tip2" style="top:100px;left:280px;display: none;">First, select which province' STC to display in
+    3D viewer. <br> Hover to view info.
+    <p>GOT IT</p>
+  </div>
+
+  <div class="tip" id="tip3" style="top:370px;left:200px;display: none;">Province is chosen. Then, select which year to
+    display in 2D diagram. It is a top view of STC. <br> Hover to view info.
+    <p>GOT IT</p>
+  </div>
+
+  <div class="tip" id="tip4" style="top:500px;left:430px;display: none;">Province is chosen. This bar chart changes
+    according to the selected domain. It is a projected front view of STC.
+    <p>GOT IT</p>
+  </div>
+
+  <!-- LEGEND -->
+  <div class="legend">
+    <div style="margin:5px 10px;">Domains:</div>
+    <div id="ring-color"></div>
+    <div style="margin:5px 10px;">Base Map:<br>Total amount of publications</div>
+    <div id="base-map-color"></div>
+    <div>
+      6300&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1260&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;250&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10
+    </div>
+    <div style="margin:10px 10px;">Published Time:</div>
+    <div class="img-group">
+      <img src="assets/img/ring-3d.png">
+      <img src="assets/img/ring-3d.png">
+      <img src="assets/img/ring-3d.png">
+      <img src="assets/img/ring-3d.png">
+      <p>2020</p>
+      <p style="top: 17px">2019</p>
+      <p style="top: 42px">2018</p>
+      <p style="top: 67px">2017</p>
+    </div>
+    <div style="margin:10px 10px;">Domain Levels:</div>
+    <div class="img-group">
+      <img src="assets/img/ring-3d-level1.png">
+      <img src="assets/img/ring-3d-level2.png">
+      <p>1st</p>
+      <p style="top: 17px">2nd</p>
+    </div>
+
+  </div>
+
+  <!-- JS RESOURCE -->
+  <script src="bundle.js"></script>
+
+
+</body>
+
+</html>

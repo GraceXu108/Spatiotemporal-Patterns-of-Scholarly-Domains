@@ -1,0 +1,1570 @@
+"count","level_text","province_code"
+97,"Applied computing",11
+19,"Applied computing+Arts and humanities",11
+1,"Applied computing+Computer forensics",11
+10,"Applied computing+Computers in other domains",11
+9,"Applied computing+Document management and text processing",11
+18,"Applied computing+Education",11
+10,"Applied computing+Electronic commerce",11
+10,"Applied computing+Enterprise computing",11
+30,"Applied computing+Law, social and behavioral sciences",11
+68,"Applied computing+Life and medical sciences",11
+21,"Applied computing+Operations research",11
+23,"Applied computing+Physical sciences and engineering",11
+83,"Computer systems organization",11
+92,"Computer systems organization+Architectures",11
+28,"Computer systems organization+Dependable and fault-tolerant systems and networks",11
+66,"Computer systems organization+Embedded and cyber-physical systems",11
+9,"Computer systems organization+Real-time systems",11
+371,"Computing methodologies",11
+561,"Computing methodologies+Artificial intelligence",11
+149,"Computing methodologies+Computer graphics",11
+3,"Computing methodologies+Distributed computing methodologies",11
+558,"Computing methodologies+Machine learning",11
+60,"Computing methodologies+Modeling and simulation",11
+17,"Computing methodologies+Parallel computing methodologies",11
+31,"Computing methodologies+Symbolic and algebraic manipulation",11
+63,"General and reference",11
+121,"General and reference+Cross-computing tools and techniques",11
+14,"General and reference+Document types",11
+96,"Hardware",11
+51,"Hardware+Communication hardware, interfaces and storage",11
+13,"Hardware+Electronic design automation",11
+22,"Hardware+Emerging technologies",11
+5,"Hardware+Hardware test",11
+4,"Hardware+Hardware validation",11
+53,"Hardware+Integrated circuits",11
+108,"Hardware+Power and energy",11
+2,"Hardware+Robustness",11
+13,"Hardware+Very large scale integration design",11
+106,"Human-centered computing",11
+69,"Human-centered computing+Collaborative and social computing",11
+90,"Human-centered computing+Human computer interaction (HCI)",11
+11,"Human-centered computing+Interaction design",11
+100,"Human-centered computing+Ubiquitous and mobile computing",11
+13,"Human-centered computing+Visualization",11
+322,"Information systems",11
+145,"Information systems+Data management systems",11
+447,"Information systems+Information retrieval",11
+40,"Information systems+Information storage systems",11
+361,"Information systems+Information systems applications",11
+148,"Information systems+World Wide Web",11
+36,"Mathematics of computing",11
+28,"Mathematics of computing+Discrete mathematics",11
+13,"Mathematics of computing+Information theory",11
+27,"Mathematics of computing+Mathematical analysis",11
+36,"Mathematics of computing+Probability and statistics",11
+154,"Networks",11
+49,"Networks+Network algorithms",11
+26,"Networks+Network architectures",11
+22,"Networks+Network components",11
+55,"Networks+Network performance evaluation",11
+41,"Networks+Network properties",11
+32,"Networks+Network protocols",11
+38,"Networks+Network services",11
+154,"Networks+Network types",11
+77,"Security and privacy",11
+29,"Security and privacy+Cryptography",11
+4,"Security and privacy+Database and storage security",11
+8,"Security and privacy+Formal methods and theory of security",11
+20,"Security and privacy+Human and societal aspects of security and privacy",11
+20,"Security and privacy+Intrusion/anomaly detection and malware mitigation",11
+16,"Security and privacy+Network security",11
+19,"Security and privacy+Security in hardware",11
+16,"Security and privacy+Security services",11
+32,"Security and privacy+Software and application security",11
+43,"Security and privacy+Systems security",11
+51,"Social and professional topics",11
+23,"Social and professional topics+Computing / technology policy",11
+121,"Social and professional topics+Professional topics",11
+7,"Social and professional topics+User characteristics",11
+73,"Software and its engineering",11
+104,"Software and its engineering+Software creation and management",11
+31,"Software and its engineering+Software notations and tools",11
+174,"Software and its engineering+Software organization and properties",11
+111,"Theory of computation",11
+7,"Theory of computation+Computational complexity and cryptography",11
+125,"Theory of computation+Design and analysis of algorithms",11
+1,"Theory of computation+Formal languages and automata theory",11
+9,"Theory of computation+Logic",11
+21,"Theory of computation+Models of computation",11
+9,"Theory of computation+Randomness, geometry and discrete structures",11
+15,"Theory of computation+Semantics and reasoning",11
+123,"Theory of computation+Theory and algorithms for application domains",11
+7,"Applied computing",12
+2,"Applied computing+Arts and humanities",12
+1,"Applied computing+Education",12
+16,"Applied computing+Life and medical sciences",12
+2,"Applied computing+Operations research",12
+5,"Computer systems organization",12
+8,"Computer systems organization+Architectures",12
+1,"Computer systems organization+Dependable and fault-tolerant systems and networks",12
+2,"Computer systems organization+Embedded and cyber-physical systems",12
+24,"Computing methodologies",12
+38,"Computing methodologies+Artificial intelligence",12
+9,"Computing methodologies+Computer graphics",12
+42,"Computing methodologies+Machine learning",12
+1,"General and reference",12
+2,"General and reference+Cross-computing tools and techniques",12
+1,"Hardware",12
+2,"Hardware+Emerging technologies",12
+3,"Hardware+Integrated circuits",12
+5,"Human-centered computing",12
+3,"Human-centered computing+Collaborative and social computing",12
+3,"Human-centered computing+Human computer interaction (HCI)",12
+7,"Human-centered computing+Ubiquitous and mobile computing",12
+2,"Human-centered computing+Visualization",12
+16,"Information systems",12
+10,"Information systems+Data management systems",12
+20,"Information systems+Information retrieval",12
+6,"Information systems+Information storage systems",12
+17,"Information systems+Information systems applications",12
+2,"Mathematics of computing",12
+3,"Mathematics of computing+Discrete mathematics",12
+1,"Mathematics of computing+Information theory",12
+3,"Networks",12
+2,"Networks+Network performance evaluation",12
+2,"Networks+Network properties",12
+2,"Networks+Network types",12
+2,"Security and privacy",12
+4,"Social and professional topics",12
+4,"Social and professional topics+Computing / technology policy",12
+3,"Social and professional topics+Professional topics",12
+2,"Social and professional topics+User characteristics",12
+5,"Software and its engineering",12
+19,"Software and its engineering+Software organization and properties",12
+7,"Theory of computation",12
+5,"Theory of computation+Design and analysis of algorithms",12
+1,"Theory of computation+Logic",12
+2,"Theory of computation+Models of computation",12
+3,"Theory of computation+Semantics and reasoning",12
+15,"Theory of computation+Theory and algorithms for application domains",12
+4,"Applied computing",13
+3,"Applied computing+Arts and humanities",13
+3,"Applied computing+Life and medical sciences",13
+2,"Applied computing+Operations research",13
+2,"Applied computing+Physical sciences and engineering",13
+2,"Computer systems organization",13
+2,"Computer systems organization+Dependable and fault-tolerant systems and networks",13
+5,"Computer systems organization+Embedded and cyber-physical systems",13
+1,"Computer systems organization+Real-time systems",13
+6,"Computing methodologies",13
+4,"Computing methodologies+Artificial intelligence",13
+1,"Computing methodologies+Distributed computing methodologies",13
+10,"Computing methodologies+Machine learning",13
+5,"Computing methodologies+Modeling and simulation",13
+1,"Hardware",13
+3,"Hardware+Power and energy",13
+1,"Human-centered computing",13
+3,"Human-centered computing+Interaction design",13
+4,"Information systems",13
+3,"Information systems+Data management systems",13
+4,"Information systems+Information retrieval",13
+2,"Information systems+Information systems applications",13
+1,"Mathematics of computing",13
+3,"Mathematics of computing+Mathematical analysis",13
+1,"Networks",13
+2,"Networks+Network properties",13
+1,"Social and professional topics",13
+2,"Social and professional topics+Professional topics",13
+2,"Theory of computation",13
+1,"Theory of computation+Design and analysis of algorithms",13
+3,"Theory of computation+Theory and algorithms for application domains",13
+1,"Computing methodologies",14
+3,"Computing methodologies+Machine learning",14
+1,"Software and its engineering",14
+4,"Software and its engineering+Software creation and management",14
+1,"Theory of computation",14
+3,"Theory of computation+Theory and algorithms for application domains",14
+1,"General and reference",15
+2,"General and reference+Cross-computing tools and techniques",15
+2,"Hardware",15
+4,"Hardware+Communication hardware, interfaces and storage",15
+1,"Networks",15
+3,"Networks+Network types",15
+1,"Software and its engineering",15
+3,"Software and its engineering+Software organization and properties",15
+10,"Applied computing",21
+2,"Applied computing+Education",21
+2,"Applied computing+Electronic commerce",21
+2,"Applied computing+Enterprise computing",21
+2,"Applied computing+Law, social and behavioral sciences",21
+16,"Applied computing+Life and medical sciences",21
+1,"Applied computing+Operations research",21
+4,"Applied computing+Physical sciences and engineering",21
+6,"Computer systems organization",21
+3,"Computer systems organization+Architectures",21
+6,"Computer systems organization+Dependable and fault-tolerant systems and networks",21
+13,"Computer systems organization+Embedded and cyber-physical systems",21
+18,"Computing methodologies",21
+21,"Computing methodologies+Artificial intelligence",21
+6,"Computing methodologies+Computer graphics",21
+18,"Computing methodologies+Machine learning",21
+8,"Computing methodologies+Modeling and simulation",21
+2,"General and reference",21
+6,"General and reference+Cross-computing tools and techniques",21
+1,"Hardware",21
+2,"Hardware+Communication hardware, interfaces and storage",21
+5,"Human-centered computing",21
+2,"Human-centered computing+Collaborative and social computing",21
+2,"Human-centered computing+Interaction design",21
+13,"Human-centered computing+Ubiquitous and mobile computing",21
+15,"Information systems",21
+11,"Information systems+Data management systems",21
+19,"Information systems+Information retrieval",21
+24,"Information systems+Information systems applications",21
+3,"Information systems+World Wide Web",21
+1,"Mathematics of computing",21
+2,"Mathematics of computing+Mathematical analysis",21
+18,"Networks",21
+13,"Networks+Network algorithms",21
+4,"Networks+Network architectures",21
+4,"Networks+Network components",21
+3,"Networks+Network performance evaluation",21
+6,"Networks+Network properties",21
+3,"Networks+Network protocols",21
+14,"Networks+Network types",21
+2,"Security and privacy",21
+1,"Security and privacy+Cryptography",21
+2,"Security and privacy+Human and societal aspects of security and privacy",21
+2,"Software and its engineering",21
+4,"Software and its engineering+Software creation and management",21
+4,"Software and its engineering+Software organization and properties",21
+2,"Theory of computation",21
+1,"Theory of computation+Computational complexity and cryptography",21
+3,"Theory of computation+Design and analysis of algorithms",21
+4,"Applied computing",22
+1,"Applied computing+Education",22
+2,"Applied computing+Electronic commerce",22
+4,"Applied computing+Life and medical sciences",22
+2,"Applied computing+Physical sciences and engineering",22
+2,"Computer systems organization",22
+6,"Computer systems organization+Embedded and cyber-physical systems",22
+6,"Computing methodologies",22
+6,"Computing methodologies+Artificial intelligence",22
+8,"Computing methodologies+Machine learning",22
+6,"Computing methodologies+Modeling and simulation",22
+3,"Hardware",22
+4,"Hardware+Communication hardware, interfaces and storage",22
+2,"Hardware+Electronic design automation",22
+2,"Human-centered computing",22
+3,"Human-centered computing+Collaborative and social computing",22
+1,"Human-centered computing+Human computer interaction (HCI)",22
+1,"Information systems",22
+3,"Information systems+Information retrieval",22
+2,"Mathematics of computing",22
+3,"Mathematics of computing+Discrete mathematics",22
+3,"Mathematics of computing+Mathematical analysis",22
+2,"Networks",22
+2,"Networks+Network performance evaluation",22
+4,"Networks+Network types",22
+1,"Social and professional topics",22
+2,"Social and professional topics+Professional topics",22
+2,"Software and its engineering",22
+3,"Software and its engineering+Software creation and management",22
+7,"Software and its engineering+Software organization and properties",22
+5,"Theory of computation",22
+3,"Theory of computation+Computational complexity and cryptography",22
+3,"Theory of computation+Design and analysis of algorithms",22
+4,"Theory of computation+Logic",22
+6,"Theory of computation+Theory and algorithms for application domains",22
+4,"Applied computing",23
+9,"Applied computing+Life and medical sciences",23
+2,"Applied computing+Operations research",23
+5,"Computer systems organization",23
+3,"Computer systems organization+Dependable and fault-tolerant systems and networks",23
+9,"Computer systems organization+Embedded and cyber-physical systems",23
+18,"Computing methodologies",23
+37,"Computing methodologies+Artificial intelligence",23
+9,"Computing methodologies+Machine learning",23
+9,"Computing methodologies+Modeling and simulation",23
+3,"Computing methodologies+Symbolic and algebraic manipulation",23
+5,"General and reference",23
+8,"General and reference+Cross-computing tools and techniques",23
+4,"General and reference+Document types",23
+9,"Hardware",23
+4,"Hardware+Communication hardware, interfaces and storage",23
+8,"Hardware+Emerging technologies",23
+8,"Hardware+Integrated circuits",23
+15,"Hardware+Power and energy",23
+2,"Hardware+Printed circuit boards",23
+5,"Human-centered computing",23
+5,"Human-centered computing+Collaborative and social computing",23
+4,"Human-centered computing+Human computer interaction (HCI)",23
+2,"Human-centered computing+Interaction design",23
+11,"Information systems",23
+26,"Information systems+Data management systems",23
+11,"Information systems+Information systems applications",23
+11,"Information systems+World Wide Web",23
+11,"Networks",23
+1,"Networks+Network algorithms",23
+2,"Networks+Network performance evaluation",23
+2,"Networks+Network properties",23
+5,"Networks+Network protocols",23
+2,"Networks+Network services",23
+11,"Networks+Network types",23
+4,"Security and privacy",23
+1,"Security and privacy+Cryptography",23
+6,"Security and privacy+Security services",23
+4,"Social and professional topics",23
+3,"Social and professional topics+Computing / technology policy",23
+8,"Social and professional topics+Professional topics",23
+6,"Software and its engineering",23
+7,"Software and its engineering+Software creation and management",23
+3,"Software and its engineering+Software notations and tools",23
+14,"Software and its engineering+Software organization and properties",23
+4,"Theory of computation",23
+3,"Theory of computation+Design and analysis of algorithms",23
+3,"Theory of computation+Semantics and reasoning",23
+5,"Theory of computation+Theory and algorithms for application domains",23
+37,"Applied computing",31
+2,"Applied computing+Computers in other domains",31
+3,"Applied computing+Document management and text processing",31
+5,"Applied computing+Education",31
+4,"Applied computing+Electronic commerce",31
+12,"Applied computing+Enterprise computing",31
+14,"Applied computing+Law, social and behavioral sciences",31
+45,"Applied computing+Life and medical sciences",31
+4,"Applied computing+Operations research",31
+4,"Applied computing+Physical sciences and engineering",31
+34,"Computer systems organization",31
+27,"Computer systems organization+Architectures",31
+17,"Computer systems organization+Dependable and fault-tolerant systems and networks",31
+35,"Computer systems organization+Embedded and cyber-physical systems",31
+5,"Computer systems organization+Real-time systems",31
+124,"Computing methodologies",31
+144,"Computing methodologies+Artificial intelligence",31
+27,"Computing methodologies+Computer graphics",31
+2,"Computing methodologies+Concurrent computing methodologies",31
+194,"Computing methodologies+Machine learning",31
+33,"Computing methodologies+Modeling and simulation",31
+17,"Computing methodologies+Parallel computing methodologies",31
+4,"Computing methodologies+Symbolic and algebraic manipulation",31
+27,"General and reference",31
+53,"General and reference+Cross-computing tools and techniques",31
+4,"General and reference+Document types",31
+21,"Hardware",31
+9,"Hardware+Communication hardware, interfaces and storage",31
+4,"Hardware+Electronic design automation",31
+6,"Hardware+Emerging technologies",31
+4,"Hardware+Hardware validation",31
+6,"Hardware+Integrated circuits",31
+12,"Hardware+Power and energy",31
+6,"Hardware+Robustness",31
+39,"Human-centered computing",31
+2,"Human-centered computing+Accessibility",31
+44,"Human-centered computing+Collaborative and social computing",31
+18,"Human-centered computing+Human computer interaction (HCI)",31
+5,"Human-centered computing+Interaction design",31
+16,"Human-centered computing+Ubiquitous and mobile computing",31
+16,"Human-centered computing+Visualization",31
+91,"Information systems",31
+66,"Information systems+Data management systems",31
+94,"Information systems+Information retrieval",31
+4,"Information systems+Information storage systems",31
+75,"Information systems+Information systems applications",31
+64,"Information systems+World Wide Web",31
+21,"Mathematics of computing",31
+23,"Mathematics of computing+Discrete mathematics",31
+15,"Mathematics of computing+Mathematical analysis",31
+2,"Mathematics of computing+Mathematical software",31
+22,"Mathematics of computing+Probability and statistics",31
+50,"Networks",31
+14,"Networks+Network algorithms",31
+5,"Networks+Network components",31
+21,"Networks+Network performance evaluation",31
+16,"Networks+Network properties",31
+8,"Networks+Network protocols",31
+15,"Networks+Network services",31
+47,"Networks+Network types",31
+22,"Security and privacy",31
+5,"Security and privacy+Formal methods and theory of security",31
+6,"Security and privacy+Human and societal aspects of security and privacy",31
+6,"Security and privacy+Intrusion/anomaly detection and malware mitigation",31
+8,"Security and privacy+Network security",31
+10,"Security and privacy+Security in hardware",31
+6,"Security and privacy+Security services",31
+7,"Security and privacy+Software and application security",31
+19,"Security and privacy+Systems security",31
+19,"Social and professional topics",31
+9,"Social and professional topics+Computing / technology policy",31
+36,"Social and professional topics+Professional topics",31
+8,"Social and professional topics+User characteristics",31
+34,"Software and its engineering",31
+44,"Software and its engineering+Software creation and management",31
+15,"Software and its engineering+Software notations and tools",31
+89,"Software and its engineering+Software organization and properties",31
+50,"Theory of computation",31
+88,"Theory of computation+Design and analysis of algorithms",31
+1,"Theory of computation+Formal languages and automata theory",31
+2,"Theory of computation+Logic",31
+8,"Theory of computation+Models of computation",31
+3,"Theory of computation+Randomness, geometry and discrete structures",31
+6,"Theory of computation+Semantics and reasoning",31
+48,"Theory of computation+Theory and algorithms for application domains",31
+30,"Applied computing",32
+3,"Applied computing+Arts and humanities",32
+4,"Applied computing+Computers in other domains",32
+4,"Applied computing+Education",32
+4,"Applied computing+Electronic commerce",32
+12,"Applied computing+Enterprise computing",32
+4,"Applied computing+Law, social and behavioral sciences",32
+28,"Applied computing+Life and medical sciences",32
+7,"Applied computing+Operations research",32
+10,"Applied computing+Physical sciences and engineering",32
+18,"Computer systems organization",32
+6,"Computer systems organization+Architectures",32
+8,"Computer systems organization+Dependable and fault-tolerant systems and networks",32
+29,"Computer systems organization+Embedded and cyber-physical systems",32
+108,"Computing methodologies",32
+84,"Computing methodologies+Artificial intelligence",32
+35,"Computing methodologies+Computer graphics",32
+175,"Computing methodologies+Machine learning",32
+17,"Computing methodologies+Modeling and simulation",32
+2,"Computing methodologies+Parallel computing methodologies",32
+9,"General and reference",32
+16,"General and reference+Cross-computing tools and techniques",32
+2,"General and reference+Document types",32
+19,"Hardware",32
+16,"Hardware+Communication hardware, interfaces and storage",32
+14,"Hardware+Integrated circuits",32
+21,"Hardware+Power and energy",32
+2,"Hardware+Printed circuit boards",32
+25,"Human-centered computing",32
+2,"Human-centered computing+Accessibility",32
+13,"Human-centered computing+Collaborative and social computing",32
+15,"Human-centered computing+Human computer interaction (HCI)",32
+13,"Human-centered computing+Ubiquitous and mobile computing",32
+6,"Human-centered computing+Visualization",32
+61,"Information systems",32
+54,"Information systems+Data management systems",32
+58,"Information systems+Information retrieval",32
+12,"Information systems+Information storage systems",32
+83,"Information systems+Information systems applications",32
+48,"Information systems+World Wide Web",32
+13,"Mathematics of computing",32
+17,"Mathematics of computing+Discrete mathematics",32
+2,"Mathematics of computing+Information theory",32
+12,"Mathematics of computing+Mathematical analysis",32
+10,"Mathematics of computing+Probability and statistics",32
+33,"Networks",32
+9,"Networks+Network algorithms",32
+14,"Networks+Network performance evaluation",32
+5,"Networks+Network properties",32
+5,"Networks+Network protocols",32
+12,"Networks+Network services",32
+38,"Networks+Network types",32
+13,"Security and privacy",32
+10,"Security and privacy+Cryptography",32
+4,"Security and privacy+Database and storage security",32
+5,"Security and privacy+Human and societal aspects of security and privacy",32
+4,"Security and privacy+Intrusion/anomaly detection and malware mitigation",32
+4,"Security and privacy+Security services",32
+3,"Security and privacy+Software and application security",32
+2,"Security and privacy+Systems security",32
+6,"Social and professional topics",32
+18,"Social and professional topics+Professional topics",32
+17,"Software and its engineering",32
+56,"Software and its engineering+Software creation and management",32
+3,"Software and its engineering+Software notations and tools",32
+15,"Software and its engineering+Software organization and properties",32
+33,"Theory of computation",32
+1,"Theory of computation+Computational complexity and cryptography",32
+43,"Theory of computation+Design and analysis of algorithms",32
+3,"Theory of computation+Formal languages and automata theory",32
+6,"Theory of computation+Logic",32
+6,"Theory of computation+Models of computation",32
+3,"Theory of computation+Randomness, geometry and discrete structures",32
+8,"Theory of computation+Semantics and reasoning",32
+20,"Theory of computation+Theory and algorithms for application domains",32
+26,"Applied computing",33
+4,"Applied computing+Arts and humanities",33
+2,"Applied computing+Document management and text processing",33
+7,"Applied computing+Education",33
+9,"Applied computing+Electronic commerce",33
+3,"Applied computing+Enterprise computing",33
+7,"Applied computing+Law, social and behavioral sciences",33
+16,"Applied computing+Life and medical sciences",33
+4,"Applied computing+Operations research",33
+1,"Applied computing+Physical sciences and engineering",33
+8,"Computer systems organization",33
+13,"Computer systems organization+Architectures",33
+3,"Computer systems organization+Dependable and fault-tolerant systems and networks",33
+3,"Computer systems organization+Embedded and cyber-physical systems",33
+78,"Computing methodologies",33
+119,"Computing methodologies+Artificial intelligence",33
+40,"Computing methodologies+Computer graphics",33
+155,"Computing methodologies+Machine learning",33
+12,"Computing methodologies+Modeling and simulation",33
+3,"Computing methodologies+Symbolic and algebraic manipulation",33
+4,"General and reference",33
+8,"General and reference+Cross-computing tools and techniques",33
+4,"Hardware",33
+1,"Hardware+Communication hardware, interfaces and storage",33
+3,"Hardware+Emerging technologies",33
+5,"Hardware+Integrated circuits",33
+3,"Hardware+Power and energy",33
+28,"Human-centered computing",33
+6,"Human-centered computing+Accessibility",33
+7,"Human-centered computing+Collaborative and social computing",33
+23,"Human-centered computing+Human computer interaction (HCI)",33
+14,"Human-centered computing+Ubiquitous and mobile computing",33
+6,"Human-centered computing+Visualization",33
+51,"Information systems",33
+31,"Information systems+Data management systems",33
+71,"Information systems+Information retrieval",33
+47,"Information systems+Information systems applications",33
+35,"Information systems+World Wide Web",33
+14,"Mathematics of computing",33
+3,"Mathematics of computing+Continuous mathematics",33
+33,"Mathematics of computing+Discrete mathematics",33
+2,"Mathematics of computing+Information theory",33
+24,"Mathematics of computing+Mathematical analysis",33
+12,"Mathematics of computing+Probability and statistics",33
+19,"Networks",33
+6,"Networks+Network algorithms",33
+4,"Networks+Network architectures",33
+7,"Networks+Network performance evaluation",33
+2,"Networks+Network properties",33
+2,"Networks+Network protocols",33
+2,"Networks+Network services",33
+24,"Networks+Network types",33
+15,"Security and privacy",33
+5,"Security and privacy+Cryptography",33
+2,"Security and privacy+Database and storage security",33
+1,"Security and privacy+Human and societal aspects of security and privacy",33
+4,"Security and privacy+Intrusion/anomaly detection and malware mitigation",33
+4,"Security and privacy+Network security",33
+2,"Security and privacy+Security in hardware",33
+2,"Security and privacy+Software and application security",33
+9,"Security and privacy+Systems security",33
+10,"Social and professional topics",33
+26,"Social and professional topics+Professional topics",33
+5,"Social and professional topics+User characteristics",33
+12,"Software and its engineering",33
+22,"Software and its engineering+Software creation and management",33
+4,"Software and its engineering+Software notations and tools",33
+10,"Software and its engineering+Software organization and properties",33
+31,"Theory of computation",33
+4,"Theory of computation+Computational complexity and cryptography",33
+29,"Theory of computation+Design and analysis of algorithms",33
+4,"Theory of computation+Logic",33
+3,"Theory of computation+Models of computation",33
+6,"Theory of computation+Randomness, geometry and discrete structures",33
+3,"Theory of computation+Semantics and reasoning",33
+36,"Theory of computation+Theory and algorithms for application domains",33
+16,"Applied computing",34
+2,"Applied computing+Arts and humanities",34
+7,"Applied computing+Education",34
+2,"Applied computing+Enterprise computing",34
+1,"Applied computing+Law, social and behavioral sciences",34
+20,"Applied computing+Life and medical sciences",34
+8,"Applied computing+Operations research",34
+17,"Computer systems organization",34
+13,"Computer systems organization+Architectures",34
+12,"Computer systems organization+Dependable and fault-tolerant systems and networks",34
+19,"Computer systems organization+Embedded and cyber-physical systems",34
+56,"Computing methodologies",34
+99,"Computing methodologies+Artificial intelligence",34
+26,"Computing methodologies+Computer graphics",34
+79,"Computing methodologies+Machine learning",34
+9,"Computing methodologies+Modeling and simulation",34
+3,"Computing methodologies+Parallel computing methodologies",34
+12,"General and reference",34
+21,"General and reference+Cross-computing tools and techniques",34
+4,"General and reference+Document types",34
+16,"Hardware",34
+8,"Hardware+Communication hardware, interfaces and storage",34
+5,"Hardware+Electronic design automation",34
+8,"Hardware+Emerging technologies",34
+1,"Hardware+Integrated circuits",34
+15,"Hardware+Power and energy",34
+3,"Hardware+Robustness",34
+3,"Hardware+Very large scale integration design",34
+10,"Human-centered computing",34
+9,"Human-centered computing+Collaborative and social computing",34
+8,"Human-centered computing+Human computer interaction (HCI)",34
+10,"Human-centered computing+Ubiquitous and mobile computing",34
+3,"Human-centered computing+Visualization",34
+36,"Information systems",34
+18,"Information systems+Data management systems",34
+42,"Information systems+Information retrieval",34
+48,"Information systems+Information systems applications",34
+24,"Information systems+World Wide Web",34
+5,"Mathematics of computing",34
+9,"Mathematics of computing+Discrete mathematics",34
+2,"Mathematics of computing+Information theory",34
+3,"Mathematics of computing+Probability and statistics",34
+26,"Networks",34
+9,"Networks+Network algorithms",34
+2,"Networks+Network components",34
+14,"Networks+Network performance evaluation",34
+4,"Networks+Network properties",34
+5,"Networks+Network protocols",34
+6,"Networks+Network services",34
+26,"Networks+Network types",34
+1,"Security and privacy",34
+1,"Security and privacy+Database and storage security",34
+4,"Social and professional topics",34
+13,"Social and professional topics+Professional topics",34
+3,"Software and its engineering",34
+8,"Software and its engineering+Software creation and management",34
+2,"Software and its engineering+Software notations and tools",34
+9,"Software and its engineering+Software organization and properties",34
+14,"Theory of computation",34
+10,"Theory of computation+Design and analysis of algorithms",34
+1,"Theory of computation+Formal languages and automata theory",34
+1,"Theory of computation+Logic",34
+2,"Theory of computation+Models of computation",34
+2,"Theory of computation+Randomness, geometry and discrete structures",34
+3,"Theory of computation+Semantics and reasoning",34
+15,"Theory of computation+Theory and algorithms for application domains",34
+8,"Applied computing",35
+2,"Applied computing+Arts and humanities",35
+2,"Applied computing+Law, social and behavioral sciences",35
+22,"Applied computing+Life and medical sciences",35
+7,"Computer systems organization",35
+2,"Computer systems organization+Architectures",35
+4,"Computer systems organization+Dependable and fault-tolerant systems and networks",35
+8,"Computer systems organization+Embedded and cyber-physical systems",35
+17,"Computing methodologies",35
+27,"Computing methodologies+Artificial intelligence",35
+5,"Computing methodologies+Computer graphics",35
+27,"Computing methodologies+Machine learning",35
+8,"Computing methodologies+Modeling and simulation",35
+7,"General and reference",35
+10,"General and reference+Cross-computing tools and techniques",35
+3,"Hardware",35
+1,"Hardware+Electronic design automation",35
+2,"Hardware+Hardware validation",35
+3,"Hardware+Power and energy",35
+10,"Information systems",35
+8,"Information systems+Data management systems",35
+16,"Information systems+Information retrieval",35
+12,"Information systems+Information systems applications",35
+3,"Information systems+World Wide Web",35
+2,"Mathematics of computing",35
+1,"Mathematics of computing+Information theory",35
+3,"Mathematics of computing+Probability and statistics",35
+8,"Networks",35
+1,"Networks+Network algorithms",35
+1,"Networks+Network architectures",35
+4,"Networks+Network performance evaluation",35
+2,"Networks+Network properties",35
+5,"Networks+Network protocols",35
+10,"Security and privacy",35
+10,"Security and privacy+Cryptography",35
+2,"Security and privacy+Formal methods and theory of security",35
+2,"Security and privacy+Human and societal aspects of security and privacy",35
+5,"Security and privacy+Network security",35
+2,"Security and privacy+Security in hardware",35
+11,"Security and privacy+Security services",35
+5,"Security and privacy+Systems security",35
+1,"Social and professional topics",35
+3,"Social and professional topics+Professional topics",35
+7,"Software and its engineering",35
+2,"Software and its engineering+Software creation and management",35
+4,"Software and its engineering+Software notations and tools",35
+18,"Software and its engineering+Software organization and properties",35
+2,"Theory of computation",35
+2,"Theory of computation+Design and analysis of algorithms",35
+2,"Theory of computation+Models of computation",35
+3,"Computing methodologies",36
+6,"Computing methodologies+Artificial intelligence",36
+4,"Computing methodologies+Machine learning",36
+1,"Human-centered computing",36
+1,"Human-centered computing+Human computer interaction (HCI)",36
+1,"Information systems",36
+2,"Information systems+Information systems applications",36
+3,"Information systems+World Wide Web",36
+2,"Networks",36
+6,"Networks+Network algorithms",36
+1,"Security and privacy",36
+3,"Security and privacy+Security services",36
+1,"Theory of computation",36
+2,"Theory of computation+Design and analysis of algorithms",36
+13,"Applied computing",37
+2,"Applied computing+Arts and humanities",37
+2,"Applied computing+Document management and text processing",37
+8,"Applied computing+Education",37
+4,"Applied computing+Law, social and behavioral sciences",37
+6,"Applied computing+Life and medical sciences",37
+6,"Applied computing+Physical sciences and engineering",37
+9,"Computer systems organization",37
+7,"Computer systems organization+Dependable and fault-tolerant systems and networks",37
+15,"Computer systems organization+Embedded and cyber-physical systems",37
+1,"Computer systems organization+Real-time systems",37
+25,"Computing methodologies",37
+47,"Computing methodologies+Artificial intelligence",37
+26,"Computing methodologies+Computer graphics",37
+28,"Computing methodologies+Machine learning",37
+6,"Computing methodologies+Modeling and simulation",37
+6,"General and reference",37
+12,"General and reference+Cross-computing tools and techniques",37
+9,"Hardware",37
+4,"Hardware+Communication hardware, interfaces and storage",37
+9,"Hardware+Integrated circuits",37
+12,"Hardware+Power and energy",37
+11,"Human-centered computing",37
+11,"Human-centered computing+Collaborative and social computing",37
+20,"Human-centered computing+Human computer interaction (HCI)",37
+8,"Human-centered computing+Interaction design",37
+40,"Information systems",37
+2,"Information systems+Data management systems",37
+71,"Information systems+Information retrieval",37
+45,"Information systems+Information systems applications",37
+21,"Information systems+World Wide Web",37
+1,"Mathematics of computing",37
+3,"Mathematics of computing+Mathematical analysis",37
+17,"Networks",37
+1,"Networks+Network algorithms",37
+2,"Networks+Network architectures",37
+7,"Networks+Network performance evaluation",37
+6,"Networks+Network properties",37
+20,"Networks+Network types",37
+6,"Security and privacy",37
+1,"Security and privacy+Network security",37
+9,"Security and privacy+Security services",37
+4,"Social and professional topics",37
+9,"Social and professional topics+Professional topics",37
+4,"Social and professional topics+User characteristics",37
+2,"Theory of computation",37
+2,"Theory of computation+Randomness, geometry and discrete structures",37
+1,"Theory of computation+Theory and algorithms for application domains",37
+3,"Computing methodologies",41
+7,"Computing methodologies+Artificial intelligence",41
+3,"Computing methodologies+Modeling and simulation",41
+1,"Hardware",41
+2,"Hardware+Communication hardware, interfaces and storage",41
+3,"Information systems",41
+7,"Information systems+Data management systems",41
+1,"Networks",41
+1,"Networks+Network performance evaluation",41
+4,"Security and privacy",41
+1,"Security and privacy+Network security",41
+2,"Security and privacy+Security in hardware",41
+2,"Security and privacy+Security services",41
+2,"Security and privacy+Systems security",41
+1,"Social and professional topics",41
+3,"Social and professional topics+Professional topics",41
+1,"Software and its engineering",41
+3,"Software and its engineering+Software creation and management",41
+2,"Theory of computation",41
+4,"Theory of computation+Design and analysis of algorithms",41
+20,"Applied computing",42
+2,"Applied computing+Arts and humanities",42
+2,"Applied computing+Computer forensics",42
+1,"Applied computing+Document management and text processing",42
+13,"Applied computing+Education",42
+5,"Applied computing+Enterprise computing",42
+2,"Applied computing+Law, social and behavioral sciences",42
+10,"Applied computing+Life and medical sciences",42
+3,"Applied computing+Operations research",42
+4,"Applied computing+Physical sciences and engineering",42
+20,"Computer systems organization",42
+9,"Computer systems organization+Architectures",42
+16,"Computer systems organization+Dependable and fault-tolerant systems and networks",42
+21,"Computer systems organization+Embedded and cyber-physical systems",42
+2,"Computer systems organization+Real-time systems",42
+63,"Computing methodologies",42
+71,"Computing methodologies+Artificial intelligence",42
+38,"Computing methodologies+Computer graphics",42
+2,"Computing methodologies+Distributed computing methodologies",42
+106,"Computing methodologies+Machine learning",42
+13,"Computing methodologies+Modeling and simulation",42
+18,"General and reference",42
+43,"General and reference+Cross-computing tools and techniques",42
+21,"Hardware",42
+13,"Hardware+Communication hardware, interfaces and storage",42
+6,"Hardware+Electronic design automation",42
+13,"Hardware+Emerging technologies",42
+2,"Hardware+Hardware test",42
+1,"Hardware+Hardware validation",42
+12,"Hardware+Integrated circuits",42
+13,"Hardware+Power and energy",42
+8,"Hardware+Robustness",42
+12,"Human-centered computing",42
+16,"Human-centered computing+Collaborative and social computing",42
+14,"Human-centered computing+Human computer interaction (HCI)",42
+3,"Human-centered computing+Interaction design",42
+5,"Human-centered computing+Ubiquitous and mobile computing",42
+9,"Human-centered computing+Visualization",42
+52,"Information systems",42
+22,"Information systems+Data management systems",42
+49,"Information systems+Information retrieval",42
+31,"Information systems+Information storage systems",42
+66,"Information systems+Information systems applications",42
+7,"Information systems+World Wide Web",42
+11,"Mathematics of computing",42
+16,"Mathematics of computing+Discrete mathematics",42
+6,"Mathematics of computing+Information theory",42
+2,"Mathematics of computing+Mathematical analysis",42
+4,"Mathematics of computing+Probability and statistics",42
+25,"Networks",42
+1,"Networks+Network algorithms",42
+1,"Networks+Network architectures",42
+11,"Networks+Network performance evaluation",42
+9,"Networks+Network properties",42
+3,"Networks+Network protocols",42
+5,"Networks+Network services",42
+26,"Networks+Network types",42
+17,"Security and privacy",42
+3,"Security and privacy+Cryptography",42
+1,"Security and privacy+Database and storage security",42
+2,"Security and privacy+Intrusion/anomaly detection and malware mitigation",42
+2,"Security and privacy+Network security",42
+4,"Security and privacy+Security services",42
+2,"Security and privacy+Software and application security",42
+13,"Security and privacy+Systems security",42
+9,"Social and professional topics",42
+2,"Social and professional topics+Computing / technology policy",42
+22,"Social and professional topics+Professional topics",42
+20,"Software and its engineering",42
+22,"Software and its engineering+Software creation and management",42
+6,"Software and its engineering+Software notations and tools",42
+48,"Software and its engineering+Software organization and properties",42
+17,"Theory of computation",42
+27,"Theory of computation+Design and analysis of algorithms",42
+1,"Theory of computation+Formal languages and automata theory",42
+1,"Theory of computation+Models of computation",42
+3,"Theory of computation+Randomness, geometry and discrete structures",42
+22,"Theory of computation+Theory and algorithms for application domains",42
+12,"Applied computing",43
+1,"Applied computing+Enterprise computing",43
+2,"Applied computing+Law, social and behavioral sciences",43
+17,"Applied computing+Life and medical sciences",43
+2,"Applied computing+Operations research",43
+11,"Applied computing+Physical sciences and engineering",43
+14,"Computer systems organization",43
+14,"Computer systems organization+Architectures",43
+8,"Computer systems organization+Dependable and fault-tolerant systems and networks",43
+13,"Computer systems organization+Embedded and cyber-physical systems",43
+1,"Computer systems organization+Real-time systems",43
+36,"Computing methodologies",43
+34,"Computing methodologies+Artificial intelligence",43
+15,"Computing methodologies+Computer graphics",43
+59,"Computing methodologies+Machine learning",43
+24,"Computing methodologies+Modeling and simulation",43
+9,"Computing methodologies+Symbolic and algebraic manipulation",43
+8,"General and reference",43
+15,"General and reference+Cross-computing tools and techniques",43
+2,"General and reference+Document types",43
+6,"Hardware",43
+3,"Hardware+Electronic design automation",43
+1,"Hardware+Hardware validation",43
+16,"Hardware+Very large scale integration design",43
+4,"Human-centered computing",43
+1,"Human-centered computing+Collaborative and social computing",43
+11,"Human-centered computing+Ubiquitous and mobile computing",43
+26,"Information systems",43
+31,"Information systems+Data management systems",43
+20,"Information systems+Information retrieval",43
+30,"Information systems+Information systems applications",43
+5,"Information systems+World Wide Web",43
+6,"Mathematics of computing",43
+13,"Mathematics of computing+Mathematical analysis",43
+3,"Mathematics of computing+Mathematical software",43
+3,"Mathematics of computing+Probability and statistics",43
+14,"Networks",43
+6,"Networks+Network algorithms",43
+2,"Networks+Network architectures",43
+5,"Networks+Network performance evaluation",43
+10,"Networks+Network properties",43
+4,"Networks+Network protocols",43
+9,"Networks+Network types",43
+13,"Security and privacy",43
+8,"Security and privacy+Cryptography",43
+3,"Security and privacy+Intrusion/anomaly detection and malware mitigation",43
+5,"Security and privacy+Network security",43
+4,"Security and privacy+Security services",43
+2,"Security and privacy+Software and application security",43
+4,"Social and professional topics",43
+15,"Social and professional topics+Professional topics",43
+15,"Software and its engineering",43
+15,"Software and its engineering+Software creation and management",43
+20,"Software and its engineering+Software notations and tools",43
+28,"Software and its engineering+Software organization and properties",43
+5,"Theory of computation",43
+2,"Theory of computation+Computational complexity and cryptography",43
+3,"Theory of computation+Design and analysis of algorithms",43
+10,"Theory of computation+Theory and algorithms for application domains",43
+18,"Applied computing",44
+2,"Applied computing+Arts and humanities",44
+1,"Applied computing+Computer forensics",44
+3,"Applied computing+Document management and text processing",44
+3,"Applied computing+Electronic commerce",44
+2,"Applied computing+Enterprise computing",44
+2,"Applied computing+Law, social and behavioral sciences",44
+23,"Applied computing+Life and medical sciences",44
+4,"Applied computing+Operations research",44
+3,"Applied computing+Physical sciences and engineering",44
+26,"Computer systems organization",44
+29,"Computer systems organization+Architectures",44
+10,"Computer systems organization+Dependable and fault-tolerant systems and networks",44
+31,"Computer systems organization+Embedded and cyber-physical systems",44
+1,"Computer systems organization+Real-time systems",44
+97,"Computing methodologies",44
+129,"Computing methodologies+Artificial intelligence",44
+41,"Computing methodologies+Computer graphics",44
+2,"Computing methodologies+Distributed computing methodologies",44
+142,"Computing methodologies+Machine learning",44
+15,"Computing methodologies+Modeling and simulation",44
+5,"Computing methodologies+Parallel computing methodologies",44
+19,"General and reference",44
+39,"General and reference+Cross-computing tools and techniques",44
+4,"General and reference+Document types",44
+19,"Hardware",44
+5,"Hardware+Communication hardware, interfaces and storage",44
+3,"Hardware+Electronic design automation",44
+16,"Hardware+Emerging technologies",44
+17,"Hardware+Integrated circuits",44
+29,"Hardware+Power and energy",44
+5,"Hardware+Robustness",44
+8,"Hardware+Very large scale integration design",44
+14,"Human-centered computing",44
+13,"Human-centered computing+Collaborative and social computing",44
+7,"Human-centered computing+Human computer interaction (HCI)",44
+1,"Human-centered computing+Ubiquitous and mobile computing",44
+64,"Information systems",44
+33,"Information systems+Data management systems",44
+66,"Information systems+Information retrieval",44
+12,"Information systems+Information storage systems",44
+82,"Information systems+Information systems applications",44
+19,"Information systems+World Wide Web",44
+19,"Mathematics of computing",44
+3,"Mathematics of computing+Continuous mathematics",44
+24,"Mathematics of computing+Discrete mathematics",44
+3,"Mathematics of computing+Information theory",44
+27,"Mathematics of computing+Mathematical analysis",44
+9,"Mathematics of computing+Probability and statistics",44
+29,"Networks",44
+7,"Networks+Network algorithms",44
+5,"Networks+Network architectures",44
+3,"Networks+Network components",44
+15,"Networks+Network performance evaluation",44
+2,"Networks+Network properties",44
+4,"Networks+Network protocols",44
+4,"Networks+Network services",44
+28,"Networks+Network types",44
+15,"Security and privacy",44
+17,"Security and privacy+Cryptography",44
+1,"Security and privacy+Database and storage security",44
+2,"Security and privacy+Human and societal aspects of security and privacy",44
+1,"Security and privacy+Intrusion/anomaly detection and malware mitigation",44
+2,"Security and privacy+Network security",44
+2,"Security and privacy+Security in hardware",44
+7,"Security and privacy+Security services",44
+2,"Security and privacy+Systems security",44
+5,"Social and professional topics",44
+16,"Social and professional topics+Professional topics",44
+16,"Software and its engineering",44
+19,"Software and its engineering+Software creation and management",44
+3,"Software and its engineering+Software notations and tools",44
+50,"Software and its engineering+Software organization and properties",44
+30,"Theory of computation",44
+32,"Theory of computation+Design and analysis of algorithms",44
+8,"Theory of computation+Logic",44
+5,"Theory of computation+Models of computation",44
+4,"Theory of computation+Randomness, geometry and discrete structures",44
+3,"Theory of computation+Semantics and reasoning",44
+22,"Theory of computation+Theory and algorithms for application domains",44
+7,"Applied computing",45
+7,"Applied computing+Enterprise computing",45
+10,"Applied computing+Law, social and behavioral sciences",45
+4,"Applied computing+Life and medical sciences",45
+2,"Applied computing+Operations research",45
+8,"Computing methodologies",45
+2,"Computing methodologies+Artificial intelligence",45
+4,"Computing methodologies+Computer graphics",45
+21,"Computing methodologies+Machine learning",45
+1,"Hardware",45
+2,"Hardware+Communication hardware, interfaces and storage",45
+1,"Human-centered computing",45
+2,"Human-centered computing+Ubiquitous and mobile computing",45
+4,"Information systems",45
+1,"Information systems+Data management systems",45
+7,"Information systems+Information systems applications",45
+2,"Mathematics of computing",45
+3,"Mathematics of computing+Discrete mathematics",45
+2,"Mathematics of computing+Information theory",45
+7,"Networks",45
+1,"Networks+Network algorithms",45
+2,"Networks+Network performance evaluation",45
+3,"Networks+Network properties",45
+4,"Networks+Network services",45
+4,"Networks+Network types",45
+3,"Security and privacy",45
+2,"Security and privacy+Network security",45
+2,"Security and privacy+Security services",45
+1,"Social and professional topics",45
+2,"Social and professional topics+Computing / technology policy",45
+1,"Software and its engineering",45
+1,"Software and its engineering+Software creation and management",45
+2,"Theory of computation",45
+3,"Theory of computation+Design and analysis of algorithms",45
+4,"Theory of computation+Theory and algorithms for application domains",45
+4,"Computing methodologies",46
+6,"Computing methodologies+Artificial intelligence",46
+4,"Computing methodologies+Computer graphics",46
+1,"Computing methodologies+Machine learning",46
+2,"Computing methodologies+Modeling and simulation",46
+16,"Applied computing",50
+7,"Applied computing+Enterprise computing",50
+4,"Applied computing+Law, social and behavioral sciences",50
+18,"Applied computing+Life and medical sciences",50
+6,"Computer systems organization",50
+5,"Computer systems organization+Architectures",50
+2,"Computer systems organization+Dependable and fault-tolerant systems and networks",50
+14,"Computer systems organization+Embedded and cyber-physical systems",50
+17,"Computing methodologies",50
+33,"Computing methodologies+Artificial intelligence",50
+5,"Computing methodologies+Computer graphics",50
+23,"Computing methodologies+Machine learning",50
+9,"Computing methodologies+Modeling and simulation",50
+2,"General and reference",50
+2,"General and reference+Cross-computing tools and techniques",50
+2,"General and reference+Document types",50
+5,"Hardware",50
+6,"Hardware+Communication hardware, interfaces and storage",50
+2,"Hardware+Electronic design automation",50
+3,"Hardware+Power and energy",50
+4,"Human-centered computing",50
+2,"Human-centered computing+Collaborative and social computing",50
+6,"Human-centered computing+Ubiquitous and mobile computing",50
+12,"Information systems",50
+9,"Information systems+Data management systems",50
+5,"Information systems+Information retrieval",50
+20,"Information systems+Information systems applications",50
+4,"Information systems+World Wide Web",50
+4,"Mathematics of computing",50
+6,"Mathematics of computing+Discrete mathematics",50
+4,"Mathematics of computing+Mathematical analysis",50
+3,"Mathematics of computing+Probability and statistics",50
+3,"Networks",50
+3,"Networks+Network properties",50
+5,"Networks+Network protocols",50
+2,"Networks+Network types",50
+2,"Security and privacy",50
+2,"Security and privacy+Network security",50
+2,"Security and privacy+Systems security",50
+7,"Social and professional topics",50
+27,"Social and professional topics+Professional topics",50
+4,"Software and its engineering",50
+13,"Software and its engineering+Software organization and properties",50
+5,"Theory of computation",50
+18,"Theory of computation+Design and analysis of algorithms",50
+4,"Theory of computation+Theory and algorithms for application domains",50
+11,"Applied computing",51
+4,"Applied computing+Education",51
+2,"Applied computing+Enterprise computing",51
+2,"Applied computing+Law, social and behavioral sciences",51
+14,"Applied computing+Life and medical sciences",51
+6,"Applied computing+Physical sciences and engineering",51
+3,"Computer systems organization",51
+3,"Computer systems organization+Architectures",51
+2,"Computer systems organization+Dependable and fault-tolerant systems and networks",51
+7,"Computer systems organization+Embedded and cyber-physical systems",51
+43,"Computing methodologies",51
+70,"Computing methodologies+Artificial intelligence",51
+13,"Computing methodologies+Computer graphics",51
+68,"Computing methodologies+Machine learning",51
+8,"Computing methodologies+Modeling and simulation",51
+3,"Computing methodologies+Parallel computing methodologies",51
+2,"General and reference",51
+2,"General and reference+Cross-computing tools and techniques",51
+2,"General and reference+Document types",51
+8,"Hardware",51
+8,"Hardware+Communication hardware, interfaces and storage",51
+3,"Hardware+Integrated circuits",51
+6,"Hardware+Power and energy",51
+2,"Hardware+Very large scale integration design",51
+2,"Human-centered computing",51
+3,"Human-centered computing+Human computer interaction (HCI)",51
+2,"Human-centered computing+Interaction design",51
+2,"Human-centered computing+Ubiquitous and mobile computing",51
+38,"Information systems",51
+13,"Information systems+Data management systems",51
+67,"Information systems+Information retrieval",51
+32,"Information systems+Information systems applications",51
+16,"Information systems+World Wide Web",51
+5,"Mathematics of computing",51
+3,"Mathematics of computing+Discrete mathematics",51
+7,"Mathematics of computing+Mathematical analysis",51
+3,"Mathematics of computing+Probability and statistics",51
+12,"Networks",51
+3,"Networks+Network performance evaluation",51
+2,"Networks+Network properties",51
+2,"Networks+Network protocols",51
+2,"Networks+Network services",51
+15,"Networks+Network types",51
+2,"Security and privacy",51
+2,"Security and privacy+Formal methods and theory of security",51
+4,"Security and privacy+Intrusion/anomaly detection and malware mitigation",51
+2,"Security and privacy+Security services",51
+2,"Security and privacy+Systems security",51
+1,"Social and professional topics",51
+1,"Social and professional topics+Professional topics",51
+4,"Software and its engineering",51
+8,"Software and its engineering+Software creation and management",51
+2,"Software and its engineering+Software notations and tools",51
+7,"Software and its engineering+Software organization and properties",51
+6,"Theory of computation",51
+10,"Theory of computation+Design and analysis of algorithms",51
+2,"Theory of computation+Logic",51
+7,"Theory of computation+Theory and algorithms for application domains",51
+2,"Applied computing",52
+2,"Applied computing+Life and medical sciences",52
+2,"Applied computing+Physical sciences and engineering",52
+3,"Computing methodologies",52
+4,"Computing methodologies+Artificial intelligence",52
+5,"Computing methodologies+Computer graphics",52
+1,"Hardware",52
+3,"Hardware+Communication hardware, interfaces and storage",52
+2,"Information systems",52
+4,"Information systems+Data management systems",52
+2,"Information systems+Information systems applications",52
+1,"Security and privacy",52
+1,"Security and privacy+Cryptography",52
+1,"Theory of computation",52
+1,"Theory of computation+Computational complexity and cryptography",52
+8,"Applied computing",53
+6,"Applied computing+Computers in other domains",53
+2,"Applied computing+Law, social and behavioral sciences",53
+8,"Applied computing+Life and medical sciences",53
+2,"Applied computing+Operations research",53
+2,"Computer systems organization",53
+6,"Computer systems organization+Architectures",53
+5,"Computing methodologies",53
+8,"Computing methodologies+Artificial intelligence",53
+3,"Computing methodologies+Computer graphics",53
+14,"Computing methodologies+Machine learning",53
+1,"General and reference",53
+2,"General and reference+Cross-computing tools and techniques",53
+1,"Hardware",53
+2,"Hardware+Integrated circuits",53
+3,"Information systems",53
+3,"Information systems+Information retrieval",53
+6,"Information systems+Information systems applications",53
+3,"Networks",53
+6,"Networks+Network architectures",53
+6,"Networks+Network properties",53
+2,"Networks+Network types",53
+1,"Security and privacy",53
+2,"Security and privacy+Intrusion/anomaly detection and malware mitigation",53
+2,"Security and privacy+Security in hardware",53
+3,"Social and professional topics",53
+6,"Social and professional topics+Professional topics",53
+2,"Social and professional topics+User characteristics",53
+1,"Software and its engineering",53
+3,"Software and its engineering+Software notations and tools",53
+1,"Computing methodologies",54
+1,"Computing methodologies+Modeling and simulation",54
+3,"Software and its engineering",54
+12,"Software and its engineering+Software creation and management",54
+3,"Theory of computation",54
+2,"Theory of computation+Computational complexity and cryptography",54
+7,"Theory of computation+Logic",54
+2,"Theory of computation+Models of computation",54
+7,"Theory of computation+Semantics and reasoning",54
+14,"Applied computing",61
+13,"Applied computing+Arts and humanities",61
+1,"Applied computing+Computers in other domains",61
+2,"Applied computing+Electronic commerce",61
+10,"Applied computing+Life and medical sciences",61
+2,"Applied computing+Operations research",61
+8,"Applied computing+Physical sciences and engineering",61
+7,"Computer systems organization",61
+6,"Computer systems organization+Architectures",61
+3,"Computer systems organization+Dependable and fault-tolerant systems and networks",61
+8,"Computer systems organization+Embedded and cyber-physical systems",61
+70,"Computing methodologies",61
+57,"Computing methodologies+Artificial intelligence",61
+14,"Computing methodologies+Computer graphics",61
+122,"Computing methodologies+Machine learning",61
+3,"Computing methodologies+Modeling and simulation",61
+7,"General and reference",61
+14,"General and reference+Cross-computing tools and techniques",61
+7,"Hardware",61
+12,"Hardware+Communication hardware, interfaces and storage",61
+3,"Hardware+Integrated circuits",61
+8,"Human-centered computing",61
+17,"Human-centered computing+Ubiquitous and mobile computing",61
+3,"Human-centered computing+Visualization",61
+39,"Information systems",61
+23,"Information systems+Data management systems",61
+20,"Information systems+Information retrieval",61
+53,"Information systems+Information systems applications",61
+30,"Information systems+World Wide Web",61
+9,"Mathematics of computing",61
+9,"Mathematics of computing+Discrete mathematics",61
+11,"Mathematics of computing+Mathematical analysis",61
+6,"Mathematics of computing+Probability and statistics",61
+18,"Networks",61
+6,"Networks+Network architectures",61
+1,"Networks+Network performance evaluation",61
+8,"Networks+Network properties",61
+3,"Networks+Network protocols",61
+4,"Networks+Network services",61
+29,"Networks+Network types",61
+17,"Security and privacy",61
+14,"Security and privacy+Cryptography",61
+5,"Security and privacy+Formal methods and theory of security",61
+2,"Security and privacy+Human and societal aspects of security and privacy",61
+4,"Security and privacy+Intrusion/anomaly detection and malware mitigation",61
+4,"Security and privacy+Network security",61
+2,"Security and privacy+Security in hardware",61
+9,"Security and privacy+Security services",61
+9,"Security and privacy+Systems security",61
+6,"Social and professional topics",61
+4,"Social and professional topics+Computing / technology policy",61
+11,"Social and professional topics+Professional topics",61
+2,"Social and professional topics+User characteristics",61
+6,"Software and its engineering",61
+12,"Software and its engineering+Software creation and management",61
+4,"Software and its engineering+Software notations and tools",61
+11,"Software and its engineering+Software organization and properties",61
+11,"Theory of computation",61
+15,"Theory of computation+Design and analysis of algorithms",61
+2,"Theory of computation+Logic",61
+3,"Theory of computation+Models of computation",61
+3,"Theory of computation+Semantics and reasoning",61
+3,"Theory of computation+Theory and algorithms for application domains",61
+8,"Applied computing",62
+1,"Applied computing+Electronic commerce",62
+11,"Applied computing+Life and medical sciences",62
+5,"Applied computing+Physical sciences and engineering",62
+9,"Computer systems organization",62
+9,"Computer systems organization+Architectures",62
+8,"Computer systems organization+Dependable and fault-tolerant systems and networks",62
+11,"Computer systems organization+Embedded and cyber-physical systems",62
+4,"Computer systems organization+Real-time systems",62
+26,"Computing methodologies",62
+25,"Computing methodologies+Artificial intelligence",62
+44,"Computing methodologies+Machine learning",62
+8,"Computing methodologies+Modeling and simulation",62
+3,"Computing methodologies+Parallel computing methodologies",62
+3,"Computing methodologies+Symbolic and algebraic manipulation",62
+4,"General and reference",62
+6,"General and reference+Cross-computing tools and techniques",62
+2,"General and reference+Document types",62
+6,"Hardware",62
+3,"Hardware+Communication hardware, interfaces and storage",62
+3,"Hardware+Emerging technologies",62
+2,"Hardware+Integrated circuits",62
+6,"Hardware+Power and energy",62
+3,"Hardware+Robustness",62
+6,"Human-centered computing",62
+9,"Human-centered computing+Human computer interaction (HCI)",62
+7,"Human-centered computing+Ubiquitous and mobile computing",62
+19,"Information systems",62
+11,"Information systems+Data management systems",62
+24,"Information systems+Information retrieval",62
+26,"Information systems+Information systems applications",62
+4,"Information systems+World Wide Web",62
+5,"Networks",62
+1,"Networks+Network performance evaluation",62
+8,"Networks+Network properties",62
+3,"Networks+Network services",62
+5,"Security and privacy",62
+2,"Security and privacy+Database and storage security",62
+2,"Security and privacy+Security services",62
+1,"Security and privacy+Software and application security",62
+10,"Security and privacy+Systems security",62
+3,"Social and professional topics",62
+7,"Social and professional topics+Professional topics",62
+12,"Software and its engineering",62
+30,"Software and its engineering+Software creation and management",62
+3,"Software and its engineering+Software notations and tools",62
+21,"Software and its engineering+Software organization and properties",62
+14,"Theory of computation",62
+2,"Theory of computation+Computational complexity and cryptography",62
+8,"Theory of computation+Design and analysis of algorithms",62
+6,"Theory of computation+Logic",62
+1,"Theory of computation+Models of computation",62
+19,"Theory of computation+Semantics and reasoning",62
+8,"Theory of computation+Theory and algorithms for application domains",62
+1,"Computer systems organization",63
+2,"Computer systems organization+Embedded and cyber-physical systems",63
+7,"Applied computing",64
+2,"Applied computing+Education",64
+4,"Applied computing+Electronic commerce",64
+2,"Applied computing+Enterprise computing",64
+2,"Applied computing+Operations research",64
+14,"Computer systems organization",64
+29,"Computer systems organization+Architectures",64
+6,"Computer systems organization+Dependable and fault-tolerant systems and networks",64
+2,"Computer systems organization+Embedded and cyber-physical systems",64
+2,"Computer systems organization+Real-time systems",64
+25,"Computing methodologies",64
+10,"Computing methodologies+Artificial intelligence",64
+36,"Computing methodologies+Computer graphics",64
+2,"Computing methodologies+Distributed computing methodologies",64
+29,"Computing methodologies+Machine learning",64
+12,"Computing methodologies+Modeling and simulation",64
+10,"Computing methodologies+Parallel computing methodologies",64
+8,"General and reference",64
+17,"General and reference+Cross-computing tools and techniques",64
+12,"Hardware",64
+6,"Hardware+Communication hardware, interfaces and storage",64
+3,"Hardware+Electronic design automation",64
+12,"Hardware+Emerging technologies",64
+1,"Hardware+Hardware test",64
+9,"Hardware+Integrated circuits",64
+5,"Hardware+Robustness",64
+1,"Hardware+Very large scale integration design",64
+6,"Human-centered computing",64
+1,"Human-centered computing+Collaborative and social computing",64
+7,"Human-centered computing+Human computer interaction (HCI)",64
+12,"Information systems",64
+13,"Information systems+Data management systems",64
+10,"Information systems+Information retrieval",64
+11,"Information systems+Information storage systems",64
+9,"Information systems+Information systems applications",64
+8,"Information systems+World Wide Web",64
+6,"Mathematics of computing",64
+3,"Mathematics of computing+Discrete mathematics",64
+5,"Mathematics of computing+Mathematical analysis",64
+6,"Mathematics of computing+Probability and statistics",64
+10,"Networks",64
+6,"Networks+Network algorithms",64
+2,"Networks+Network architectures",64
+5,"Networks+Network components",64
+6,"Networks+Network performance evaluation",64
+2,"Networks+Network protocols",64
+7,"Networks+Network services",64
+4,"Networks+Network types",64
+2,"Security and privacy",64
+3,"Security and privacy+Network security",64
+7,"Social and professional topics",64
+20,"Social and professional topics+Professional topics",64
+2,"Social and professional topics+User characteristics",64
+14,"Software and its engineering",64
+24,"Software and its engineering+Software creation and management",64
+13,"Software and its engineering+Software notations and tools",64
+31,"Software and its engineering+Software organization and properties",64
+9,"Theory of computation",64
+9,"Theory of computation+Design and analysis of algorithms",64
+2,"Theory of computation+Logic",64
+1,"Theory of computation+Randomness, geometry and discrete structures",64
+6,"Theory of computation+Theory and algorithms for application domains",64
+3,"Applied computing",65
+7,"Applied computing+Life and medical sciences",65
+3,"Applied computing+Physical sciences and engineering",65
+2,"Computing methodologies",65
+7,"Computing methodologies+Machine learning",65
+1,"Human-centered computing",65
+1,"Human-centered computing+Human computer interaction (HCI)",65
+2,"Mathematics of computing",65
+6,"Mathematics of computing+Discrete mathematics",65
+7,"Mathematics of computing+Mathematical analysis",65
+1,"Networks",65
+2,"Networks+Network types",65
+1,"Theory of computation",65
+2,"Theory of computation+Design and analysis of algorithms",65
+1,"Theory of computation+Randomness, geometry and discrete structures",65
+59,"Applied computing",71
+13,"Applied computing+Arts and humanities",71
+9,"Applied computing+Computers in other domains",71
+3,"Applied computing+Document management and text processing",71
+13,"Applied computing+Education",71
+5,"Applied computing+Electronic commerce",71
+13,"Applied computing+Enterprise computing",71
+8,"Applied computing+Law, social and behavioral sciences",71
+51,"Applied computing+Life and medical sciences",71
+8,"Applied computing+Operations research",71
+3,"Applied computing+Physical sciences and engineering",71
+24,"Computer systems organization",71
+25,"Computer systems organization+Architectures",71
+11,"Computer systems organization+Dependable and fault-tolerant systems and networks",71
+27,"Computer systems organization+Embedded and cyber-physical systems",71
+1,"Computer systems organization+Real-time systems",71
+107,"Computing methodologies",71
+146,"Computing methodologies+Artificial intelligence",71
+85,"Computing methodologies+Computer graphics",71
+3,"Computing methodologies+Distributed computing methodologies",71
+100,"Computing methodologies+Machine learning",71
+10,"Computing methodologies+Modeling and simulation",71
+3,"Computing methodologies+Parallel computing methodologies",71
+3,"Computing methodologies+Symbolic and algebraic manipulation",71
+15,"General and reference",71
+24,"General and reference+Cross-computing tools and techniques",71
+7,"General and reference+Document types",71
+45,"Hardware",71
+24,"Hardware+Communication hardware, interfaces and storage",71
+39,"Hardware+Electronic design automation",71
+11,"Hardware+Emerging technologies",71
+3,"Hardware+Hardware test",71
+6,"Hardware+Hardware validation",71
+19,"Hardware+Integrated circuits",71
+31,"Hardware+Power and energy",71
+17,"Hardware+Robustness",71
+17,"Hardware+Very large scale integration design",71
+72,"Human-centered computing",71
+4,"Human-centered computing+Accessibility",71
+22,"Human-centered computing+Collaborative and social computing",71
+84,"Human-centered computing+Human computer interaction (HCI)",71
+11,"Human-centered computing+Interaction design",71
+9,"Human-centered computing+Ubiquitous and mobile computing",71
+12,"Human-centered computing+Visualization",71
+82,"Information systems",71
+5,"Information systems+Data management systems",71
+66,"Information systems+Information retrieval",71
+10,"Information systems+Information storage systems",71
+127,"Information systems+Information systems applications",71
+50,"Information systems+World Wide Web",71
+14,"Mathematics of computing",71
+21,"Mathematics of computing+Discrete mathematics",71
+17,"Mathematics of computing+Mathematical analysis",71
+15,"Mathematics of computing+Probability and statistics",71
+30,"Networks",71
+6,"Networks+Network algorithms",71
+1,"Networks+Network architectures",71
+3,"Networks+Network components",71
+15,"Networks+Network performance evaluation",71
+12,"Networks+Network properties",71
+13,"Networks+Network protocols",71
+2,"Networks+Network services",71
+25,"Networks+Network types",71
+21,"Security and privacy",71
+6,"Security and privacy+Cryptography",71
+6,"Security and privacy+Formal methods and theory of security",71
+5,"Security and privacy+Human and societal aspects of security and privacy",71
+5,"Security and privacy+Network security",71
+15,"Security and privacy+Security services",71
+1,"Security and privacy+Software and application security",71
+4,"Security and privacy+Systems security",71
+23,"Social and professional topics",71
+4,"Social and professional topics+Computing / technology policy",71
+37,"Social and professional topics+Professional topics",71
+18,"Social and professional topics+User characteristics",71
+24,"Software and its engineering",71
+7,"Software and its engineering+Software creation and management",71
+22,"Software and its engineering+Software notations and tools",71
+66,"Software and its engineering+Software organization and properties",71
+26,"Theory of computation",71
+2,"Theory of computation+Computational complexity and cryptography",71
+27,"Theory of computation+Design and analysis of algorithms",71
+2,"Theory of computation+Formal languages and automata theory",71
+7,"Theory of computation+Logic",71
+3,"Theory of computation+Models of computation",71
+4,"Theory of computation+Randomness, geometry and discrete structures",71
+29,"Theory of computation+Theory and algorithms for application domains",71
+49,"Applied computing",81
+9,"Applied computing+Arts and humanities",81
+17,"Applied computing+Computers in other domains",81
+6,"Applied computing+Document management and text processing",81
+32,"Applied computing+Education",81
+6,"Applied computing+Enterprise computing",81
+6,"Applied computing+Law, social and behavioral sciences",81
+40,"Applied computing+Life and medical sciences",81
+4,"Applied computing+Operations research",81
+5,"Applied computing+Physical sciences and engineering",81
+33,"Computer systems organization",81
+35,"Computer systems organization+Architectures",81
+14,"Computer systems organization+Dependable and fault-tolerant systems and networks",81
+36,"Computer systems organization+Embedded and cyber-physical systems",81
+124,"Computing methodologies",81
+128,"Computing methodologies+Artificial intelligence",81
+59,"Computing methodologies+Computer graphics",81
+188,"Computing methodologies+Machine learning",81
+14,"Computing methodologies+Modeling and simulation",81
+5,"Computing methodologies+Parallel computing methodologies",81
+10,"Computing methodologies+Symbolic and algebraic manipulation",81
+27,"General and reference",81
+49,"General and reference+Cross-computing tools and techniques",81
+4,"General and reference+Document types",81
+40,"Hardware",81
+20,"Hardware+Communication hardware, interfaces and storage",81
+12,"Hardware+Electronic design automation",81
+2,"Hardware+Emerging technologies",81
+1,"Hardware+Hardware test",81
+2,"Hardware+Hardware validation",81
+8,"Hardware+Integrated circuits",81
+46,"Hardware+Power and energy",81
+3,"Hardware+Robustness",81
+7,"Hardware+Very large scale integration design",81
+65,"Human-centered computing",81
+25,"Human-centered computing+Collaborative and social computing",81
+55,"Human-centered computing+Human computer interaction (HCI)",81
+3,"Human-centered computing+Interaction design",81
+23,"Human-centered computing+Ubiquitous and mobile computing",81
+20,"Human-centered computing+Visualization",81
+150,"Information systems",81
+128,"Information systems+Data management systems",81
+158,"Information systems+Information retrieval",81
+21,"Information systems+Information storage systems",81
+181,"Information systems+Information systems applications",81
+58,"Information systems+World Wide Web",81
+28,"Mathematics of computing",81
+48,"Mathematics of computing+Discrete mathematics",81
+2,"Mathematics of computing+Information theory",81
+29,"Mathematics of computing+Mathematical analysis",81
+9,"Mathematics of computing+Probability and statistics",81
+63,"Networks",81
+15,"Networks+Network algorithms",81
+8,"Networks+Network architectures",81
+5,"Networks+Network components",81
+20,"Networks+Network performance evaluation",81
+2,"Networks+Network properties",81
+9,"Networks+Network protocols",81
+24,"Networks+Network services",81
+64,"Networks+Network types",81
+23,"Security and privacy",81
+11,"Security and privacy+Cryptography",81
+10,"Security and privacy+Database and storage security",81
+1,"Security and privacy+Formal methods and theory of security",81
+7,"Security and privacy+Human and societal aspects of security and privacy",81
+3,"Security and privacy+Network security",81
+3,"Security and privacy+Security in hardware",81
+4,"Security and privacy+Security services",81
+7,"Security and privacy+Systems security",81
+22,"Social and professional topics",81
+10,"Social and professional topics+Computing / technology policy",81
+51,"Social and professional topics+Professional topics",81
+1,"Social and professional topics+User characteristics",81
+26,"Software and its engineering",81
+36,"Software and its engineering+Software creation and management",81
+21,"Software and its engineering+Software notations and tools",81
+45,"Software and its engineering+Software organization and properties",81
+67,"Theory of computation",81
+105,"Theory of computation+Design and analysis of algorithms",81
+2,"Theory of computation+Logic",81
+4,"Theory of computation+Models of computation",81
+5,"Theory of computation+Randomness, geometry and discrete structures",81
+12,"Theory of computation+Semantics and reasoning",81
+87,"Theory of computation+Theory and algorithms for application domains",81
+7,"Applied computing",82
+2,"Applied computing+Arts and humanities",82
+5,"Applied computing+Document management and text processing",82
+1,"Applied computing+Education",82
+6,"Applied computing+Life and medical sciences",82
+4,"Computer systems organization",82
+4,"Computer systems organization+Dependable and fault-tolerant systems and networks",82
+8,"Computer systems organization+Embedded and cyber-physical systems",82
+1,"Computer systems organization+Real-time systems",82
+7,"Computing methodologies",82
+3,"Computing methodologies+Artificial intelligence",82
+1,"Computing methodologies+Computer graphics",82
+6,"Computing methodologies+Machine learning",82
+3,"Computing methodologies+Modeling and simulation",82
+3,"Computing methodologies+Parallel computing methodologies",82
+5,"Human-centered computing",82
+2,"Human-centered computing+Accessibility",82
+2,"Human-centered computing+Collaborative and social computing",82
+1,"Human-centered computing+Interaction design",82
+7,"Human-centered computing+Visualization",82
+8,"Information systems",82
+1,"Information systems+Data management systems",82
+11,"Information systems+Information retrieval",82
+7,"Information systems+Information systems applications",82
+5,"Information systems+World Wide Web",82
+1,"Mathematics of computing",82
+3,"Mathematics of computing+Probability and statistics",82
+5,"Networks",82
+3,"Networks+Network performance evaluation",82
+4,"Networks+Network properties",82
+2,"Networks+Network services",82
+2,"Networks+Network types",82
+4,"Security and privacy",82
+3,"Security and privacy+Human and societal aspects of security and privacy",82
+3,"Security and privacy+Security services",82
