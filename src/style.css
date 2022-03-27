@@ -50,7 +50,6 @@ a:hover {
   padding: 0;
 }
 
-
 /******************** CONTROLS *************************/
 .mapboxgl-ctrl-logo {
   display: none !important;
@@ -79,8 +78,7 @@ a:hover {
   right: 15px;
 }
 
-
-/******************** POPUP *************************/
+/******************** MAP POPUP *************************/
 .popup {
   background-color: #29323c;
   position: absolute;
@@ -111,7 +109,7 @@ a:hover {
   color: #ffffff;
 }
 
-
+/******************** 3D VIEWER POPUP *************************/
 .pop-up {
   background-color: #29323c;
   position: absolute;
@@ -141,7 +139,6 @@ a:hover {
 .pop-up span {
   color: #ffffff;
 }
-
 
 /******************** SIDE PANEL *************************/
 .button-container {
@@ -226,8 +223,6 @@ a:hover {
   font-size: 15px;
 }
 
-
-
 .map-selector-container {
   position: relative;
   width: 450px;
@@ -236,7 +231,6 @@ a:hover {
   box-sizing: border-box;
   border-bottom: 1px dashed rgba(255, 255, 255, 0.2);
 }
-
 
 .ms-choice {
   height: 20px;
@@ -330,14 +324,12 @@ a:hover {
 .graph-left {
   width: 250px;
   height: 100%;
-
 }
 
 .selectYear {
   top: 6px;
   left: -160px;
 }
-
 
 .sequence-explain {
   position: absolute;
@@ -532,7 +524,6 @@ a:hover {
   animation-fill-mode: forwards;
 }
 
-
 /******************** INSTRUCTION TIPS *************************/
 .tip {
   position: absolute;
@@ -560,9 +551,7 @@ a:hover {
   border-left: 0;
   margin-top: -8px;
   margin-left: -8px;
-
   border-right-color: rgb(41, 50, 60);
-
 }
 
 .tip p {
